@@ -1,4 +1,4 @@
-# product carbon footprint MySQL
+# Product carbon footprint MySQL
 
 Exploratory analysis about the product carbon footprint with MySQL
 
