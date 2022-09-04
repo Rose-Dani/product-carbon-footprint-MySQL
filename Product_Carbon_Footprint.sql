@@ -5,10 +5,10 @@ Skills used: Creation of table, Aggregate Functions, Windows Functions, Creating
 */
 
 
-USE Carbon_analysis;
+USE Carbon_dt;
 -- creation of a table to store our data 
 CREATE TABLE product_level_data(ID  char(13),
-								year int(4),
+				year int(4),
                                 product_name varchar(872),
                                 company_name varchar(44),
                                 country varchar(14),
